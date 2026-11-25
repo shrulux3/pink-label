@@ -1,2 +1,2 @@
 # pink-label
-Luxury Fashion E-commerce Website
+Fashion E-commerce Website
